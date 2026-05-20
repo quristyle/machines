@@ -65,3 +65,25 @@ USERNAME 을 실제 사용자명으로 바꾸세요.
 
 
 한글 필요.
+
+
+
+
+
+원격지에서 상당히 불편하지요..
+
+bashrc 에  alias 잡고 쓰기
+
+alias x11='export DISPLAY=:0; export XAUTHORITY=/home/quri/.Xauthority'
+
+
+
+
+
+
+
+
+
+
+
+
